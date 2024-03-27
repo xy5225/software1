@@ -1,0 +1,10 @@
+#inlcude <stdio>
+int main (void)
+
+{
+  pritnf("Hello Wrold !");
+
+
+
+return 0;
+}
